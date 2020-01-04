@@ -1,4 +1,4 @@
-source 'https://github.com/shiguredo/sora-ios-sdk-specs.git'
+source 'https://github.com/satoshi0212/sora-ios-sdk-specs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 platform :ios, '10.0'

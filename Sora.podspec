@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.authors      = { "Shiguredo Inc." => "sora@shiguredo.jp" }
   s.platform     = :ios, "10.0"
   s.source       = {
-      :git => "https://github.com/shiguredo/sora-ios-sdk.git",
+      :git => "https://github.com/satoshi0212/sora-ios-sdk.git",
       :tag => s.version
   }
   s.source_files  = "Sora/**/*.swift"
